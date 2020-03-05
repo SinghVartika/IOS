@@ -21,6 +21,7 @@
 		45A61B81240CEC7300DD987A /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A61B80240CEC7300DD987A /* FourthViewController.swift */; };
 		45A61BC7240F67C500DD987A /* ViewControllerAspectRatio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A61BC6240F67C500DD987A /* ViewControllerAspectRatio.swift */; };
 		45A61C092410B03F00DD987A /* ViewControllerAspectRatio2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A61C082410B03F00DD987A /* ViewControllerAspectRatio2.swift */; };
+		45A61C472410F98400DD987A /* ViewControllerCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A61C462410F98400DD987A /* ViewControllerCalculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		45A61B80240CEC7300DD987A /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
 		45A61BC6240F67C500DD987A /* ViewControllerAspectRatio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerAspectRatio.swift; sourceTree = "<group>"; };
 		45A61C082410B03F00DD987A /* ViewControllerAspectRatio2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerAspectRatio2.swift; sourceTree = "<group>"; };
+		45A61C462410F98400DD987A /* ViewControllerCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerCalculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				45A61B50240CEB9500DD987A /* Main.storyboard */,
 				45A61BC6240F67C500DD987A /* ViewControllerAspectRatio.swift */,
 				45A61C082410B03F00DD987A /* ViewControllerAspectRatio2.swift */,
+				45A61C462410F98400DD987A /* ViewControllerCalculator.swift */,
 				45A61B53240CEB9600DD987A /* Assets.xcassets */,
 				45A61B55240CEB9600DD987A /* LaunchScreen.storyboard */,
 				45A61B58240CEB9600DD987A /* Info.plist */,
@@ -285,6 +288,7 @@
 				45A61B81240CEC7300DD987A /* FourthViewController.swift in Sources */,
 				45A61B7D240CEC5500DD987A /* SecondViewController.swift in Sources */,
 				45A61B7F240CEC6300DD987A /* ThirdViewController.swift in Sources */,
+				45A61C472410F98400DD987A /* ViewControllerCalculator.swift in Sources */,
 				45A61B7B240CEC4600DD987A /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

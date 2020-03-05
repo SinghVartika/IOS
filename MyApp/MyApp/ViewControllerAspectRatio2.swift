@@ -22,6 +22,12 @@ class ViewControllerAspectRatio2: UIViewController {
     @IBAction func popBotton(_ sender: Bool){
         self.navigationController?.popViewController(animated: true)
     }
+    @IBAction func pushButtonTapped(_ sender : UIButton){
+        let storyboard = UIStoryboard.init(name: "Main", bundle: nil)
+      let vc = storyboard.instantiateViewController(withIdentifier: "ViewControllerCalculator")
+     self.navigationController!.pushViewController(vc, animated: true)
+        
+    }
     /*
     // MARK: - Navigation
 
