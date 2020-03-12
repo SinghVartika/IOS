@@ -11,6 +11,7 @@
 		455BDA7F2418A35B003316CC /* UIElementViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 455BDA7E2418A35B003316CC /* UIElementViewController2.swift */; };
 		455BDA812418A8C1003316CC /* UIElementViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 455BDA802418A8C1003316CC /* UIElementViewController3.swift */; };
 		459C9ACD2411198D004235DD /* StackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 459C9ACC2411198D004235DD /* StackViewController.swift */; };
+		45A0EF452418DAFE003E86D3 /* tabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A0EF442418DAFE003E86D3 /* tabBarController.swift */; };
 		45A61B4B240CEB9500DD987A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A61B4A240CEB9500DD987A /* AppDelegate.swift */; };
 		45A61B4D240CEB9500DD987A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A61B4C240CEB9500DD987A /* SceneDelegate.swift */; };
 		45A61B4F240CEB9500DD987A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A61B4E240CEB9500DD987A /* ViewController.swift */; };
@@ -26,6 +27,13 @@
 		45A61BC7240F67C500DD987A /* ViewControllerAspectRatio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A61BC6240F67C500DD987A /* ViewControllerAspectRatio.swift */; };
 		45A61C092410B03F00DD987A /* ViewControllerAspectRatio2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A61C082410B03F00DD987A /* ViewControllerAspectRatio2.swift */; };
 		45A61C472410F98400DD987A /* ViewControllerCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A61C462410F98400DD987A /* ViewControllerCalculator.swift */; };
+		45C3351F2418DCE6006C0D88 /* NavKitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45C3351E2418DCE6006C0D88 /* NavKitViewController.swift */; };
+		45D584D42418E5A5003652CC /* RootPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45D584D32418E5A5003652CC /* RootPageViewController.swift */; };
+		45D584D82418F6AB003652CC /* navViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45D584D72418F6AB003652CC /* navViewController.swift */; };
+		45D584DA24193EE7003652CC /* TabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45D584D924193EE7003652CC /* TabViewController.swift */; };
+		45D584DC2419F14A003652CC /* firstVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45D584DB2419F14A003652CC /* firstVC.swift */; };
+		45D584DE2419F157003652CC /* secondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45D584DD2419F157003652CC /* secondVC.swift */; };
+		45D5851E241A1595003652CC /* navTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45D5851D241A1595003652CC /* navTabView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +58,7 @@
 		455BDA7E2418A35B003316CC /* UIElementViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIElementViewController2.swift; sourceTree = "<group>"; };
 		455BDA802418A8C1003316CC /* UIElementViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIElementViewController3.swift; sourceTree = "<group>"; };
 		459C9ACC2411198D004235DD /* StackViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackViewController.swift; sourceTree = "<group>"; };
+		45A0EF442418DAFE003E86D3 /* tabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tabBarController.swift; sourceTree = "<group>"; };
 		45A61B47240CEB9500DD987A /* MyApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		45A61B4A240CEB9500DD987A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		45A61B4C240CEB9500DD987A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -71,6 +80,13 @@
 		45A61BC6240F67C500DD987A /* ViewControllerAspectRatio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerAspectRatio.swift; sourceTree = "<group>"; };
 		45A61C082410B03F00DD987A /* ViewControllerAspectRatio2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerAspectRatio2.swift; sourceTree = "<group>"; };
 		45A61C462410F98400DD987A /* ViewControllerCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerCalculator.swift; sourceTree = "<group>"; };
+		45C3351E2418DCE6006C0D88 /* NavKitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavKitViewController.swift; sourceTree = "<group>"; };
+		45D584D32418E5A5003652CC /* RootPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootPageViewController.swift; sourceTree = "<group>"; };
+		45D584D72418F6AB003652CC /* navViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = navViewController.swift; sourceTree = "<group>"; };
+		45D584D924193EE7003652CC /* TabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewController.swift; sourceTree = "<group>"; };
+		45D584DB2419F14A003652CC /* firstVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstVC.swift; sourceTree = "<group>"; };
+		45D584DD2419F157003652CC /* secondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondVC.swift; sourceTree = "<group>"; };
+		45D5851D241A1595003652CC /* navTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = navTabView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,10 +148,18 @@
 				45A61BC6240F67C500DD987A /* ViewControllerAspectRatio.swift */,
 				45A61C082410B03F00DD987A /* ViewControllerAspectRatio2.swift */,
 				45A61C462410F98400DD987A /* ViewControllerCalculator.swift */,
-				45A61B50240CEB9500DD987A /* Main.storyboard */,
 				455BDA802418A8C1003316CC /* UIElementViewController3.swift */,
 				455BDA7E2418A35B003316CC /* UIElementViewController2.swift */,
 				455BDA7C24188E61003316CC /* UIElementViewController.swift */,
+				45A61B50240CEB9500DD987A /* Main.storyboard */,
+				45A0EF442418DAFE003E86D3 /* tabBarController.swift */,
+				45D5851D241A1595003652CC /* navTabView.swift */,
+				45D584D924193EE7003652CC /* TabViewController.swift */,
+				45D584DB2419F14A003652CC /* firstVC.swift */,
+				45D584DD2419F157003652CC /* secondVC.swift */,
+				45D584D72418F6AB003652CC /* navViewController.swift */,
+				45C3351E2418DCE6006C0D88 /* NavKitViewController.swift */,
+				45D584D32418E5A5003652CC /* RootPageViewController.swift */,
 				45A61B53240CEB9600DD987A /* Assets.xcassets */,
 				45A61B55240CEB9600DD987A /* LaunchScreen.storyboard */,
 				45A61B58240CEB9600DD987A /* Info.plist */,
@@ -293,12 +317,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				45A61BC7240F67C500DD987A /* ViewControllerAspectRatio.swift in Sources */,
+				45C3351F2418DCE6006C0D88 /* NavKitViewController.swift in Sources */,
 				459C9ACD2411198D004235DD /* StackViewController.swift in Sources */,
+				45D584DE2419F157003652CC /* secondVC.swift in Sources */,
 				45A61C092410B03F00DD987A /* ViewControllerAspectRatio2.swift in Sources */,
 				455BDA7F2418A35B003316CC /* UIElementViewController2.swift in Sources */,
+				45D584D42418E5A5003652CC /* RootPageViewController.swift in Sources */,
 				45A61B4F240CEB9500DD987A /* ViewController.swift in Sources */,
+				45D5851E241A1595003652CC /* navTabView.swift in Sources */,
 				45A61B4B240CEB9500DD987A /* AppDelegate.swift in Sources */,
+				45D584D82418F6AB003652CC /* navViewController.swift in Sources */,
+				45D584DC2419F14A003652CC /* firstVC.swift in Sources */,
 				45A61B4D240CEB9500DD987A /* SceneDelegate.swift in Sources */,
+				45A0EF452418DAFE003E86D3 /* tabBarController.swift in Sources */,
 				455BDA812418A8C1003316CC /* UIElementViewController3.swift in Sources */,
 				45A61B81240CEC7300DD987A /* FourthViewController.swift in Sources */,
 				45A61B7D240CEC5500DD987A /* SecondViewController.swift in Sources */,
@@ -306,6 +337,7 @@
 				45A61C472410F98400DD987A /* ViewControllerCalculator.swift in Sources */,
 				45A61B7B240CEC4600DD987A /* FirstViewController.swift in Sources */,
 				455BDA7D24188E61003316CC /* UIElementViewController.swift in Sources */,
+				45D584DA24193EE7003652CC /* TabViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
