@@ -13,6 +13,7 @@
 		454FA1B7242093AC00CE7954 /* Stack2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 454FA1B6242093AC00CE7954 /* Stack2.swift */; };
 		454FA1B9242093C200CE7954 /* Stack3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 454FA1B8242093C200CE7954 /* Stack3.swift */; };
 		454FA1BB242093E300CE7954 /* Stack4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 454FA1BA242093E300CE7954 /* Stack4.swift */; };
+		45506DDF2431F4E400510CDA /* tabcalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45506DDE2431F4E400510CDA /* tabcalViewController.swift */; };
 		455BDA7D24188E61003316CC /* UIElementViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 455BDA7C24188E61003316CC /* UIElementViewController.swift */; };
 		455BDA7F2418A35B003316CC /* UIElementViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 455BDA7E2418A35B003316CC /* UIElementViewController2.swift */; };
 		455BDA812418A8C1003316CC /* UIElementViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 455BDA802418A8C1003316CC /* UIElementViewController3.swift */; };
@@ -45,6 +46,11 @@
 		45D58522241A2272003652CC /* TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 45D58520241A2272003652CC /* TableViewCell.xib */; };
 		45D58526241A34F4003652CC /* FormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45D58525241A34F4003652CC /* FormView.swift */; };
 		45D58528241A5451003652CC /* pageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45D58527241A5451003652CC /* pageViewController.swift */; };
+		45F340A9242CAF970032CFE5 /* NestedTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F340A8242CAF970032CFE5 /* NestedTableViewController.swift */; };
+		45F340AE242CB0170032CFE5 /* NestedCustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F340AC242CB0170032CFE5 /* NestedCustomTableViewCell.swift */; };
+		45F340AF242CB0170032CFE5 /* NestedCustomTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 45F340AD242CB0170032CFE5 /* NestedCustomTableViewCell.xib */; };
+		45F340BA242CBD670032CFE5 /* NestedCustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F340B8242CBD670032CFE5 /* NestedCustomCollectionViewCell.swift */; };
+		45F340BB242CBD670032CFE5 /* NestedCustomCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 45F340B9242CBD670032CFE5 /* NestedCustomCollectionViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +77,7 @@
 		454FA1B6242093AC00CE7954 /* Stack2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack2.swift; sourceTree = "<group>"; };
 		454FA1B8242093C200CE7954 /* Stack3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack3.swift; sourceTree = "<group>"; };
 		454FA1BA242093E300CE7954 /* Stack4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack4.swift; sourceTree = "<group>"; };
+		45506DDE2431F4E400510CDA /* tabcalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tabcalViewController.swift; sourceTree = "<group>"; };
 		455BDA7C24188E61003316CC /* UIElementViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIElementViewController.swift; sourceTree = "<group>"; };
 		455BDA7E2418A35B003316CC /* UIElementViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIElementViewController2.swift; sourceTree = "<group>"; };
 		455BDA802418A8C1003316CC /* UIElementViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIElementViewController3.swift; sourceTree = "<group>"; };
@@ -109,6 +116,11 @@
 		45D58520241A2272003652CC /* TableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCell.xib; sourceTree = "<group>"; };
 		45D58525241A34F4003652CC /* FormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormView.swift; sourceTree = "<group>"; };
 		45D58527241A5451003652CC /* pageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pageViewController.swift; sourceTree = "<group>"; };
+		45F340A8242CAF970032CFE5 /* NestedTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NestedTableViewController.swift; sourceTree = "<group>"; };
+		45F340AC242CB0170032CFE5 /* NestedCustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NestedCustomTableViewCell.swift; sourceTree = "<group>"; };
+		45F340AD242CB0170032CFE5 /* NestedCustomTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NestedCustomTableViewCell.xib; sourceTree = "<group>"; };
+		45F340B8242CBD670032CFE5 /* NestedCustomCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NestedCustomCollectionViewCell.swift; sourceTree = "<group>"; };
+		45F340B9242CBD670032CFE5 /* NestedCustomCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NestedCustomCollectionViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -185,7 +197,6 @@
 				45D5851F241A2272003652CC /* TableViewCell.swift */,
 				45D58525241A34F4003652CC /* FormView.swift */,
 				45D58520241A2272003652CC /* TableViewCell.xib */,
-				45A61B50240CEB9500DD987A /* Main.storyboard */,
 				45D1C65B242B76E800FF8CC4 /* AutoController.swift */,
 				454FA1AA241F79A000CE7954 /* StackedViewController.swift */,
 				454FA1B42420939300CE7954 /* Stack1.swift */,
@@ -196,6 +207,13 @@
 				45A61B53240CEB9600DD987A /* Assets.xcassets */,
 				45A61B55240CEB9600DD987A /* LaunchScreen.storyboard */,
 				45A61B58240CEB9600DD987A /* Info.plist */,
+				45A61B50240CEB9500DD987A /* Main.storyboard */,
+				45506DDE2431F4E400510CDA /* tabcalViewController.swift */,
+				45F340A8242CAF970032CFE5 /* NestedTableViewController.swift */,
+				45F340AC242CB0170032CFE5 /* NestedCustomTableViewCell.swift */,
+				45F340AD242CB0170032CFE5 /* NestedCustomTableViewCell.xib */,
+				45F340B8242CBD670032CFE5 /* NestedCustomCollectionViewCell.swift */,
+				45F340B9242CBD670032CFE5 /* NestedCustomCollectionViewCell.xib */,
 			);
 			path = MyApp;
 			sourceTree = "<group>";
@@ -322,9 +340,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45F340AF242CB0170032CFE5 /* NestedCustomTableViewCell.xib in Resources */,
 				45A61B57240CEB9600DD987A /* LaunchScreen.storyboard in Resources */,
 				45D58522241A2272003652CC /* TableViewCell.xib in Resources */,
 				45A61B54240CEB9600DD987A /* Assets.xcassets in Resources */,
+				45F340BB242CBD670032CFE5 /* NestedCustomCollectionViewCell.xib in Resources */,
 				45A61B52240CEB9500DD987A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -351,6 +371,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				454FA1B9242093C200CE7954 /* Stack3.swift in Sources */,
+				45F340AE242CB0170032CFE5 /* NestedCustomTableViewCell.swift in Sources */,
 				45A61BC7240F67C500DD987A /* ViewControllerAspectRatio.swift in Sources */,
 				45C3351F2418DCE6006C0D88 /* NavKitViewController.swift in Sources */,
 				459C9ACD2411198D004235DD /* StackViewController.swift in Sources */,
@@ -364,16 +385,19 @@
 				454FA1B52420939400CE7954 /* Stack1.swift in Sources */,
 				45D1C65C242B76E800FF8CC4 /* AutoController.swift in Sources */,
 				45A61B4B240CEB9500DD987A /* AppDelegate.swift in Sources */,
+				45506DDF2431F4E400510CDA /* tabcalViewController.swift in Sources */,
 				45D584D82418F6AB003652CC /* navViewController.swift in Sources */,
 				454FA1B7242093AC00CE7954 /* Stack2.swift in Sources */,
 				454FA1AB241F79A000CE7954 /* StackedViewController.swift in Sources */,
 				45D584DC2419F14A003652CC /* firstVC.swift in Sources */,
 				454FA1A9241F4C1800CE7954 /* AutoViewController.swift in Sources */,
+				45F340A9242CAF970032CFE5 /* NestedTableViewController.swift in Sources */,
 				45A61B4D240CEB9500DD987A /* SceneDelegate.swift in Sources */,
 				45A0EF452418DAFE003E86D3 /* tabBarController.swift in Sources */,
 				455BDA812418A8C1003316CC /* UIElementViewController3.swift in Sources */,
 				45A61B81240CEC7300DD987A /* FourthViewController.swift in Sources */,
 				45A61B7D240CEC5500DD987A /* SecondViewController.swift in Sources */,
+				45F340BA242CBD670032CFE5 /* NestedCustomCollectionViewCell.swift in Sources */,
 				45D58526241A34F4003652CC /* FormView.swift in Sources */,
 				45A61B7F240CEC6300DD987A /* ThirdViewController.swift in Sources */,
 				45A61C472410F98400DD987A /* ViewControllerCalculator.swift in Sources */,
